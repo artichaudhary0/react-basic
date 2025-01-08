@@ -1,4 +1,10 @@
-/* App.js */
+.App {
+	font-family: sans-serif;
+	text-align: center;
+  }
+  
+
+/* App.js
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap'); 
 
 .App { 
@@ -41,4 +47,4 @@ p {
 
 #ip { 
 	color: #1453dc; 
-}
+} */
