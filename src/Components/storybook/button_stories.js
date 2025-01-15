@@ -3,6 +3,7 @@
 import React from "react";
 import Button from "../components/Button";
 
+// eslint-disable-next-line import/no-anonymous-default-export
 export default {
 	title: "Button",
 	component: Button,
