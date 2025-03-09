@@ -1,4 +1,4 @@
-# React Basic 40+ Projects
+# React Basic 30+ Projects
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It contains 40+ basic React projects to help you get started with learning React and web development.
 
